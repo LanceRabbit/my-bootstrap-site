@@ -1,0 +1,16 @@
+.my-nav {
+  background: #FF6600
+}
+
+.my-nav ul {
+  margin: 10px 0;
+}
+
+.exp li{
+  list-style-type: none;
+  margin-left: -40px;
+}
+
+body {
+    padding-top: 70px;
+}
